@@ -1,9 +1,9 @@
 table, th, td{
-    border-width: 1px;
+    border-width: 10px;
     border-style: solid;
     border-color: pink;
     border-collapse: collapse;
-    margin: 10px;
+    margin: 50px;
     padding: 10px;
     text-align: center;
 }
